@@ -3,7 +3,7 @@
 A Power BI project analyzing clinic operations data for Wellspring Clinics, a multi-site healthcare provider. The project covers data modeling, DAX, data cleaning, and dashboard design, resulting in an interactive report on patient visits, consultation fees, and staff experience.
 
 ## 📊 Dashboard Preview
-
+![Wellspring Clinics Dashboard](Dashboard%20screenshot.png)
 The dashboard includes:
 - **KPI cards** — Average Wait Time (35.25 min), Total Consultation Fee (₦2,853,000)
 - **Diagnostics gauge** — 422 total diagnostics
